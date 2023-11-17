@@ -1,0 +1,50 @@
+Nama : Syahrul maulana
+kelas : IF22D
+
+
+1. 
+1. Sederhananya, “framework” dalam pengembangan aplikasi adalah kerangka  atau struktur yang telah dibuat sebelumnya untuk membantu pengembang dalam membuat aplikasi.
+ Secara analogi dapat diibaratkan sebagai pondasi atau rangka sebuah rumah yang dipersiapkan sebelum rumah tersebut dibangun.
+ Mari kita lihat beberapa aspeknya: 1.
+ Struktur dasar:  - Bayangkan Anda ingin membangun sebuah rumah.
+ Kerangka pengembangan aplikasi  seperti kerangka dasar atau kerangka kerja yang sudah ada untuk membantu Anda memulai.
+ Ini mungkin mencakup aturan, konvensi, dan alat yang mendukung proses pembangunan.
+ 2.
+ Komponen siap pakai:  - Dalam kerangka kerja Anda dapat menemukan banyak komponen atau "alat" siap pakai  yang dapat Anda gunakan untuk membuat fungsionalitas umum tanpa perlu memulai lagi dari awal.
+ Hal ini mirip dengan menggunakan furnitur siap pakai untuk mendekorasi rumah Anda.
+ 3.
+ Aturan dan Pedoman:  - Kerangka kerja ini memberikan aturan dan pedoman tentang cara membangun aplikasi.
+ Ini membantu  pengembang  memiliki konsistensi dalam struktur dan pengkodean.
+ Analoginya seperti memiliki panduan atau rencana yang memandu langkah Anda.
+ 4.
+ Efisiensi pengembangan: - Kerangka kerja dirancang untuk membuat proses pengembangan lebih efisien.
+ Pengembang dapat fokus pada logika spesifik aplikasi tanpa harus mengkhawatirkan detail teknis yang mendasarinya karena detail ini sudah ditangani oleh framework.
+ 5.
+ Mudah dipelihara:  - Ketika  perubahan atau pembaruan  perlu dilakukan, kerangka kerja dapat membuat aplikasi lebih mudah dipelihara.
+ Hal ini serupa dengan kemudahan merenovasi atau memperbaiki rumah yang dibangun di atas fondasi dan struktur yang kokoh.
+ 6.
+ Keamanan dan Kinerja: - Banyak kerangka kerja juga menyediakan fitur keamanan bawaan dan optimalisasi kinerja.
+ Seperti halnya membangun rumah dengan bahan yang aman dan tahan lama, rangka membantu menerapkan tindakan yang aman dan efektif.
+ Contoh kerangka kerja populer dalam pengembangan aplikasi web adalah Django untuk Python, Ruby on Rails untuk Ruby, dan Laravel untuk PHP.
+ Semuanya menyediakan kerangka kerja yang kuat untuk membantu pengembang membangun aplikasi  lebih cepat dan efisien.
+
+
+2. instansi perusahaan
+
+3.- muhammad nurhikam (web)
+  - syahrul maulana (basis data)
+  - muhammad ubaidillah (laporan)
+
+
+1. Pasar Online yang Kurang Bersaing: - Pertanyaan Wawancara: Bagaimana performa penjualan online dibandingkan dengan pesaing di pasar?
+ - Solusi: Meningkatkan kehadiran online dengan strategi pemasaran digital yang lebih agresif, termasuk pengoptimalan situs web, kampanye media sosial, dan peningkatan keamanan transaksi online.
+
+2. Kurangnya Inovasi Produk: - Pertanyaan Wawancara: Apakah ada permintaan pelanggan untuk fitur atau produk baru yang belum dipenuhi?
+ - Solusi: Meluncurkan program penelitian dan pengembangan untuk menciptakan produk baru atau menyempurnakan fitur yang sudah ada sesuai  kebutuhan dan keinginan pelanggan.
+ 
+3. Sistem manajemen inventaris yang tidak efektif: Pertanyaan wawancara: Bagaimana cara kerja sistem manajemen inventaris saat ini dan apakah ada masalah?
+ Solusi : Menerapkan sistem manajemen inventaris yang lebih kompleks.
+
+
+ 
+
